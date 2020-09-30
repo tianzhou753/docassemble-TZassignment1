@@ -45,7 +45,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.TZassignment1',
       version='0.0.1',
       description=('A docassemble extension.'),
-      long_description='# docassemble.TZassignment1\n\nA docassemble extension.\n\n## Author\n\ntzyang.2017@law.smu.edu.sg\n\n',
+      long_description='# docassemble.TZassignment1\r\n\r\nA docassemble extension.\r\n\r\n## Author\r\n\r\ntzyang.2017@law.smu.edu.sg\r\n\r\n',
       long_description_content_type='text/markdown',
       author='Yang Tianzhou',
       author_email='tzyang.2017@law.smu.edu.sg',
